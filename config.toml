@@ -14,6 +14,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 disableLanguages = [] # disable language from here
 # google analytics
 googleAnalytics = "" # example : UA-123-45
+enableEmoji = true
 
 
 
