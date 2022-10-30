@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 # meta description
-description: "This is meta description"
+description: "raffaella rossini blog posts"
 # save as draft
 draft: false
 ---

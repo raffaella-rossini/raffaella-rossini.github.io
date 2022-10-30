@@ -2,9 +2,9 @@
 title: "Contact"
 bg_image: "images/2020-landscape-2.png"
 # meta description
-description: "This is meta description"
+description: "raffaella rossini - How to reach me out"
 # save as draft
 draft: false
 ---
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+You can reach out to me on LinkedIn, where I am [raffaellarossini](https://www.linkedin.com/in/raffaellarossini/), or on Twitter, where I am [@raffaellar](https://twitter.com/raffaellar).
