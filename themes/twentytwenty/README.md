@@ -1,77 +1,128 @@
-**This theme is ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty) Themes.**
-
-# Easy Setup (Hugo + Netlify + Forestry)
-Build your website with Twenty Twenty Hugo theme by following this easy steps (No Coding Required)
-
-<a href="http://bit.ly/meghna-hugo-installation" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
-
-In this tutorial we will show you to make your website live without buying any hosting and touching a single line of code. We made this tutorial based on [meghna hugo](https://github.com/themefisher/meghna-hugo) but you can setup everithing like this.
-
-### What you need !!
-
-1. Git acccount (Ex: Github, Gitlab etc ) . In our case we use github.
-2. [Netlify](https://bit.ly/netlify-account) account to host files and add custom domain .
-3. [Forestry](https://bit.ly/forestry-account) account to maintain whole project without code.
+<h1 align=center>Twenty Twenty Hugo</h1> 
+<p align=center>Twenty Twenty Hugo is super Lightweight Blog Theme </p>
+<h2 align="center"><a target="_blank" href="https://demo.gethugothemes.com/twenty-twenty" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Ftwenty-twenty%2Fsite%2F&form_factor=desktop">Page Speed (99%)</a> </h2>
 
 
-### Step 1 : Fork or Clone repository
+<p align=center>
+  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.62.2" alt="Contributors">
+    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.62.2&color=f00&logo=hugo" />
+  </a>
 
-First we will fork this [Twenty Twenty Hugo](https://github.com/themefisher/twenty-twenty-hugo) template.
+  <a href="https://github.com/themefisher/twenty-twenty-hugo/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/themefisher/twenty-twenty-hugo" alt="license"></a>
 
-### Step 2 : Add your repository in Forestry
+  <img src="https://img.shields.io/github/languages/code-size/themefisher/twenty-twenty-hugo" alt="code size">
 
-Go to your [forestry](https://bit.ly/forestry-account)  account and click on `import your site now`. declare your config.toml file [`exampleSite`] and fill up basic settings . Mark everything is done then go to configuration to change the base url . You can put any url but this have to similar as netlify . So for now put a name which you are going to put in netlify as netlify subdomain.
+  <a href="https://github.com/themefisher/twenty-twenty-hugo/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/themefisher/twenty-twenty-hugo" alt="contributors"></a>
 
-### Step 3 : Setup and host website with Netlify
+  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
+    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
+      alt="follow on Twitter"></a>
+</p>
 
-Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `parsa hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
+---
 
-> If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/twenty-twenty-hugo/issues)
+<p align="center">
+<img src="https://demo.gethugothemes.com/thumbnails/twenty-twenty.png" alt="screenshot" width="100%">
+</p>
 
+---
 
-## Table of Contents
+## Key Features
 
-- [Demo](#demo)
-- [Installation](#installation)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions-(paid))
-- [Licensing](#licensing)
-- [More Hugo Themes](https://themefisher.com/hugo-themes/)
+- Google analytics support
+- Netlify settings predefine
+- Forestry cms pre-configured
+- GDPR consent enable
+- Google page speed optimized
+- Open graph meta tag
+- Twitter card meta tag
 
+## Local development
 
-## Demo
+```bash
+# clone the repository
+git clone git@github.com:themefisher/twenty-twenty-hugo.git
 
-| ![Home](https://user-images.githubusercontent.com/37659754/80334182-4300da00-8872-11ea-8fec-bd66725b3897.png) | ![Blog](https://user-images.githubusercontent.com/37659754/80334180-41371680-8872-11ea-8790-54f5c823587a.png) | ![Contact](https://user-images.githubusercontent.com/37659754/80334178-3f6d5300-8872-11ea-9ece-5bd848d65f84.png)| ![About](https://user-images.githubusercontent.com/37659754/80334176-3d0af900-8872-11ea-885e-e5da6760e21f.png) | ![Sample-Page](https://user-images.githubusercontent.com/37659754/80334171-39777200-8872-11ea-94e6-905c7d4c8ee7.png) |
-|---|---|---|---|---|
-| Homepage  | Blog  | Contact  | About  | Sample Page  |
-
-[Live Preview](http://demo.themefisher.com/twenty-twenty-hugo/).
-
-
-## Installation
-At the top we have shown an easy hugo installation. but still if you think you want to go with the traditional way then use the following commands:
-
-```
-$ git clone https://github.com/themefisher/twenty-twenty-hugo.git
+# cd in the project directory
 $ cd twenty-twenty-hugo/exampleSite/
+
+# Start local dev server
 $ hugo server --themesDir ../..
 ```
 
+Or Check out [Full Documentation](https://docs.gethugothemes.com/twentytwenty/).
+
+## Content Management System
+
+[![import to
+Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/twenty-twenty-hugo&engine=hugo&version=0.87.0)
+
+This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your
+repository in Forestry](https://app.forestry.io/quick-start?repo=themefisher/twenty-twenty-hugo&engine=hugo&version=0.87.0) and
+you will be able to edit and preview your site ✨.
+
+Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
+
+## Deployment and hosting
+
+[![Deploy to
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/themefisher/twenty-twenty-hugo)
+
+Follow the steps.
+
+## Prefer a video? (Hugo + Netlify + Forestry)
+
+Build your website with **Twenty Twenty** theme by following these easy steps (No Coding Required!)
+[Video Tutorial](https://youtu.be/ResipmZmpDU).
+
+<!-- reporting issue -->
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the **Twenty Twenty Theme**. Please Search [existing issues](https://github.com/themefisher/twenty-twenty-hugo/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/twenty-twenty-hugo/issues/new)
+We use GitHub Issues as the official bug tracker for the twenty-twenty Template. Please Search [existing
+issues](https://github.com/themefisher/twenty-twenty-hugo/issues). Someone may have already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new
+issue](https://github.com/themefisher/twenty-twenty-hugo/issues).
 
-## Technical Support or Questions (Paid)
+## Submit Your Website To Our Showcase
 
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
+Are you using Twenty Twenty Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
 
-## Licensing
+Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator. 
 
-- Copyright 2020 Designed by [Themefisher](https://themefisher.com/) & Developed by [Gethugothemes](https://gethugothemes.com/)
-- Licensed under GPLv2 (https://github.com/themefisher/twenty-twenty-hugo/blob/master/LICENSE)
-## Premium Themes
 
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![galaxy](https://gethugothemes.com/wp-content/uploads/edd/2020/04/galaxy.png)](https://gethugothemes.com/products/galaxy/) | [![logbook](https://gethugothemes.com/wp-content/uploads/edd/2020/03/logbook-hugo.jpg)](https://gethugothemes.com/products/logbook-hugo/) |
+[Submit](https://gethugothemes.com/showcase?submit=show) your Twenty Twenty Hugo powered website.
+
+<!-- licence -->
+## License
+
+Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
+[Gethugothemes](https://gethugothemes.com)
+
+**Code License:** Released under the [MIT](https://github.com/themefisher/twenty-twenty-hugo/blob/master/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
+share those images.
+
+<!-- resources -->
+## Special Thanks
+
+- [Bootstrap](https://getbootstrap.com)
+- [Jquery](https://jquery.com)
+- [Themify Icons](https://themify.me/themify-icons)
+- [FuseJs](https://fusejs.io)
+- [MarkJs](https://markjs.io/)
+- [All Contributors](https://github.com/themefisher/twenty-twenty-hugo/graphs/contributors)
+
+## Hire Us
+
+We are available for **Hiring** for your next HUGO project. Please, check our
+[services](https://gethugothemes.com/services/?ref=github)
+
+<!-- premium themes -->
+## Premium Themes By Us
+
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=twenty_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![galaxy](https://demo.gethugothemes.com/thumbnails/galaxy.png)](https://gethugothemes.com/products/galaxy/) | [![logbook](https://demo.gethugothemes.com/thumbnails/logbook.png)](https://gethugothemes.com/products/logbook-hugo/) |
 |:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **Galaxy**  | **LogBook**  |
+| **Get 55+ Premium Hugo Themes Bundle** | **Galaxy** | **Logbook** |
