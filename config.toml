@@ -106,11 +106,11 @@ image = "images/2020-square-1.png"
 
 
 # footer
-# [params.footer]
-# title = "About This Site"
-# content = "This may be a good place to introduce yourself and your site or include some credits."
-# address = "123 Main Street <br> New York, NY 10001"
-# hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
+[params.footer]
+title = "About This Site"
+content = "This may be a good place to introduce yourself and your site or include some credits."
+address = "123 Main Street <br> New York, NY 10001"
+hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
 copyright = "Copyright &copy; 2022 -  powered by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
 
 ############################# social site ########################

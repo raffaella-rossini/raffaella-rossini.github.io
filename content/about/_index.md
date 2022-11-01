@@ -7,12 +7,8 @@ draft: false
 ---
 This is the place where I **put in order my thoughts** about **Company Culture, Employee Experience, Digital HR** (and about myself too).
 
-Back in August 2006 I started my personal blog, on a Wordpress installation that I was managing by myself. It was named _'linearemente'_ ('in a linear fashion'), as a sort of reminder to keep things simple.<br>
-It got silent in August 2011, when I basically moved to Facebook and Twitter.<br>
-Fast forward to October 2022, and here I am again, feeling the need to write down my thoughts in a longer form, as a way to **consolidate my learnings**. 
-
 You'll see here contents in both **Italian and English**: 
-- Italian is my native language, all the old posts that I ported here are written in Italian, and I'll use it again whenever I'll feel the need to stick to it.
+- Italian is my native language, and I'll use it whenever I'll feel the need to stick to it.
 - English is the language I use at work, and anything related to work will be written in English, as a way to practice (and, hopefully, improve).
 
 A few words about myself...
