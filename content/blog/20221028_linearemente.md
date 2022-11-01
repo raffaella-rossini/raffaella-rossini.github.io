@@ -1,7 +1,7 @@
 ---
 title: "It's nice to be back"
 date: 2022-10-28T19:37:24+06:00
-image : "images/linearemente.pattern.png"
+image : "images/linearemente-pattern.png"
 # author
 author : ["raffaella"]
 # categories
