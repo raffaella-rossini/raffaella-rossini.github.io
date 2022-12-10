@@ -5,7 +5,7 @@ image : "images/altitude-cover.jpg"
 # author
 author : ["raffaella"]
 # categories
-categories: ["Engagement", "Events"]
+categories: ["Engagement", "Event Management"]
 tags: ["learning", "Agile"]
 # meta description
 description: "A few words about the event itself"
@@ -17,7 +17,7 @@ draft: false
 A couple of weeks ago I was in Barcelona together with around 400 colleagues for [Altitude23](https://www.linkedin.com/posts/lastminute%2Ecom_pinkspirit-altitude23-traveltech-activity-7003031642206310400-lJL-), our first **Product and Tech Camp**, that I helped organise together with a handful of colleagues, and that went on for four days. 
 
 ## Goals
-There are a **lot of new people** in the Product and Technology functions at my company, and the **teams are heavily distributed** across Europe and India. Our CEO and the Execs in those areas wanted to provide them with the opportunity to: 
+There are a **lot of new people** in the Product and Technology functions at my company, and the **teams are heavily distributed** across Europe and India. We wanted to provide them with the opportunity to: 
 
 - **get to know each other** better
 - **expand personal networks**
@@ -36,12 +36,13 @@ The high level agenda we designed to meet our goals for the event was:
 
 - Our leaders in Product and Technology delivered the first plenary session about vision and strategy.
 - Team activities were decided by our Directors, and every team did something different, even outside the venue of the event.
-- The breakout sessions in the Open Space were delivered by the attendees who wanted to present about something, or have a conversation around a problem or an idea, or do something hands-on. In practice this translated into **50 breakout sessions** happening in the six meeting rooms we had booked (but we also used other public spaces at the venue). [Here](https://openspaceworld.org/wp2/hho/papers/brief-users-guide-open-space-technology/) is an introduction about the Open Space technology, for those who have never heard about it.
+- The breakout sessions in the Open Space were delivered by the attendees themselves. [Here](https://openspaceworld.org/wp2/hho/papers/brief-users-guide-open-space-technology/) is an introduction about the Open Space technology, for those who have never heard about it.
 
 ## It was a success in terms of active participation and engagement! What are the reasons? 
 A lot of **work and love** went into preparing the Camp, and it showed: the **attendees provided great feedback** (*"I am enjoying every minute”* is one that I’ll never forget), and the **execs** who thought that the time was right to run such an event for that audience were **happy**. It was an **enriching and rewarding experience** also for me personally.
 
-Now that emotions have (more or less :sweat_smile:) subsided, I want to reflect on what I think the ingredients for such a positive experience have been - there is for sure room for improvement, but here I want to focus on why it was a **success in terms of active participation and engagement**. In a nutshell, and unsurprisingly for some of you: 
+Now that emotions have (more or less :sweat_smile:) subsided, I want to reflect on what I think the ingredients for such a positive experience have been - there is for sure room for improvement, but here I want to focus on why it was a **success in terms of active participation and engagement**. 
+In a nutshell, and unsurprisingly for some of you: 
 
 - **autonomy, mastery, purpose**
 - **co-creating an experience** with the people it is intended for 

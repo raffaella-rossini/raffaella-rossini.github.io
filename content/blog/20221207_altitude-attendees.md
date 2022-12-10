@@ -5,7 +5,7 @@ image : "images/altitude-marketplace.png"
 # author
 author : ["raffaella"]
 # categories
-categories: ["Engagement", "Events"]
+categories: ["Engagement", "Event Management"]
 tags: ["learning", "Agile"]
 # meta description
 description: "Experiencing autonomy, mastery, and purpose as attendees"
@@ -23,11 +23,24 @@ As you can see there is a lot of slack in the schedule, not because we were too 
 
 On Tuesday we gave people time to arrive at the hotel (that was also the venue of the event) when it was best for them, check-in, and settle in. We provided meeting rooms with desks, wi-fi, and extension cords for people to work. For some it was the first time they had seen their closest teammates in the flesh, and they used that time to connect and catch up in person. The self-organised dinner gave people the opportunity to explore a bit of Barcelona by night, and to share the meal with whomever they wanted. 
 
-During the plenary on Wednesday we stayed all together, while for the 'Team Time' in the afternoon every director decided what was **more relevant to do with their teams**, given the unique opportunity to be all together in person, and given their specific challenges, goals, and the maturity of the team. Some ran a retrospective, others discussed how to implement the strategy that was presented in the morning, some went to the beach for a clean-up activity offered by our Sustainability and Social responsibility team, others ran a mini hackathon, some bonded through serious games, others went for a stroll down La Rambla, some finished preparing their sessions for the Open Space, others ran an hybrid scavenger hunt involving also the teammates who couldn't join the event in person.
+During the plenary on Wednesday we stayed all together, while for the 'Team Time' in the afternoon every director decided what was **more relevant to do with their teams**, given the unique opportunity to be all together in person, and given their specific challenges, goals, and the maturity of the team: 
+
+- some ran a retrospective
+- others discussed how to implement the strategy that was presented in the morning
+- some went to the beach for a clean-up activity offered by our Sustainability and Social responsibility team
+- others ran a mini hackathon that was the end of a group work started in the weeks before the event
+- some bonded through serious games
+- others went for a stroll down La Rambla
+- some finished preparing together their sessions for the Open Space, and exchanged feedback
+- others ran an hybrid scavenger hunt involving also the teammates who couldn't join the event in person.
 
 We planned on purpose the departure day on a Friday, when we usually only work half a day. The vast majority of people took their flight back in the morning, after having enjoyed the last dinner all together with no hurry, while some teams decided to extend their stay (covering for the cost out of their pockets) to spend more time together outside work.
 
 # Open Space
+The theme we defined for the Open Space was 'Sustainable Growth', and it was wide enough to welcome contributions from everyone. People could present about something, or have a conversation around a problem or an idea, or do something hands-on. 
+We ended up with **50 breakout sessions** happening in the six meeting rooms that we had booked (but we also used other public spaces at the venue), covering product and tech topics, but also cultural ones. 
+Everyone of us was **free to join the sessions that we deemed more relevant**, and also to **leave** and switch session in case we felt we were neither contributing nor learning.
+
 For the vast majority of the attendees this was their first Open Space, and when during the wrap up of the Camp we asked through Sli.do (more on this in a moment) for their *Tips, Tops, and Thanks*, the biggest ‘Top’ on the word cloud was undoubtedly ‘Open Space’.
 Why? Well, the way I see it, because it’s a format that:
 
@@ -36,7 +49,9 @@ Why? Well, the way I see it, because it’s a format that:
 - encourages people to **take ownership of their time** and invest it where there is something that matters to them 
 - in a company context, makes you realise **how brilliant and knowledgeable your colleagues are**, and fosters peer-to-peer learning
 
+# The fingerprint principle
 It is all about putting people at the centre of the experience, and about ‘autonomy and mastery’ at its peak.
+----> and **allowing people ‘from the trenches’ get their fingerprints on it** was for me the way to go (see [this article](https://www.estherderby.com/the-fingerprint-principle) by Esther Derby, one of my favourite thought leaders on change management).
 
 In between two breakout sessions a manager who was a bit sceptical about 400 people doing *“this Open Space thing”* commented: *“It’s amazing to see everybody doing their own thing! Who thought they could behave like adults?!”* 
 He was really happy, and the second part of the sentence was genuinely sarcastic…but, but…it is true that sometimes in our 'corporate lives' managers seem to forget that they hired fully formed adults, who are intrinsically motivated and care about doing a good job (well, this is how I see it), and they feel better when they feel 100% in control, which is something that cannot happen in the Open Space. 

@@ -5,7 +5,7 @@ image : "images/altitude-high-level-agenda.jpg"
 # author
 author : ["raffaella"]
 # categories
-categories: ["Engagement", "Events"]
+categories: ["Engagement", "Event Management"]
 tags: ["learning", "Agile"]
 # meta description
 description: "How we worked at the organisation of Altitude23"
@@ -40,18 +40,20 @@ Also in this case, a dedicated Slack channel helped us stay in touch and check o
 **Transparency in the group** greatly contributed to creating good teamwork, in my opinion: all documents and materials we worked on were shared, and even if we were taking care of separate things, we knew where to find info on everything. 
 
 ## Ambassadors and Volunteers
-I wanted to **foster active participation** in the event at different levels, and I got the green light for **involving around ten people from the intended audience in the organisation**. We called this group “Ambassadors”, and their role was multifaceted, as communicated during the kick-off: 
+I wanted to **foster active participation** in the event at different levels, and I got the green light for **involving around ten people from the intended audience in the organisation**. We called this group 'Ambassadors'.
+
+When we sent out the invitations, far more than ten colleagues replied that they were keen to help out. ‘Ten’ was a number of people big enough to be **representative** of the population involved in the event, and small enough to **cater for effective interactions**. 
+When deciding which ten respondents were to be confirmed as ambassadors, the end goal I had in mind was to create **the most diverse group**. We ended up with a great mix: we had engineers, managers, architects, and product managers, people who joined the Company in 2022 and people who joined sixteen years ago, people from India, Germany, Italy, and Spain, just to provide some examples.
+
+During our first meeting I kicked off by **clarifying the purpose** of the Ambassador in the context of the event: 
 
 - be the voice of our customers (aka our colleagues in Product and Technology), and act as a sounding board to let the committee know if the experiences that we were shaping were relevant and interesting enough for them
 - increase awareness of the event in the teams, and bring back to the committee their questions, doubts, and feedback that weren’t reaching us directly
-- lead or contribute to some streams of work 
+- lead or contribute to some streams of work.  
 
-When we sent out the invitations, far more than ten colleagues replied that they were keen to help out with the organisation. ‘Ten’ was a number of people big enough to be **representative** of the population involved in the event, and small enough to **cater for effective interactions**. 
-When deciding which ten respondents were to be confirmed as ambassadors, the end goal we had in mind was to create **the most diverse group**. We ended up with a great mix: we had engineers, managers, architects, and product managers, people who joined the Company in 2022 and people who joined sixteen years ago, people from India, Germany, Italy, and Spain, just to provide some examples.
-The criterion followed to assign them to the streams of work was…none: **everybody decided how and where to contribute**, based on their skills, interests, and capacity. As a result, their commitment was rock solid. 
+During that first meeting people also had the opportunity to bail out, in case the tasks at hand weren't something they could/would want to contribute to, and the criterion followed to assign them to the streams of work was…none: **everybody decided how and where to contribute**, based on their skills, interests, and capacity. As a result, their commitment was rock solid.
 
-I think the vast majority of the people in the Committee was doubtful about sharing the organisation with the Ambassadors (too complex, too slow, too democratic). 
-But on one side I wanted people from the intended audience to **bring their perspective in** the organisation (nobody in the Committee was from Product or Technology), and on the other side I wanted people to **own the event**, and **allowing people ‘from the trenches’ get their fingerprints on it** was for me the way to go (see [this article](https://www.estherderby.com/the-fingerprint-principle) by Esther Derby, one of my favourite thought leaders on change management).
+I think the vast majority of the people in the Committee was doubtful about sharing the organisation with the Ambassadors (too complex, too slow, too democratic), but on one side I wanted people from the intended audience to **bring their perspective in** the organisation (nobody in the Committee was from Product or Technology), and on the other side I wanted people to **own the event**, and **allowing people ‘from the trenches’ get their fingerprints on it** was for me the way to go.
 
 We went even further and asked if there was anyone open to volunteer during the event. Also in this case the response was overwhelming, as forty people replied *“Count on me!”*.
 One of them at the end told me *“I'm happy I could be there and contribute 0.01% to this success :hugging_face:”*
