@@ -21,8 +21,8 @@
     <link rel="stylesheet" href="{{ $customStyle.Permalink }}" media="screen">
   
     {{ "<!--Favicon-->" | safeHTML }}
-    <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
-    <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ `images/favicon.ico` | absURL }}" type="image/x-icon">
+    <link rel="icon" href="{{ `images/favicon.ico` | absURL }}" type="image/x-icon">
 
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
@@ -35,7 +35,6 @@
     <script defer data-domain="raffaellarossini.com" src="https://plausible.io/js/script.js"></script>
 
     <script data-isso="https://comments.raffaellarossini.com"
-        data-isso-id="{{ .Title }}"
         data-isso-lang="en"
         data-isso-max-comments-top="10"
         data-isso-reveal-on-click="5"

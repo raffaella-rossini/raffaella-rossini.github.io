@@ -1,6 +1,6 @@
 ---
 title: "Behind the scenes of a successful company event - Part 2"
-date: 2022-12-07T11:40:24+0100
+date: 2022-12-09T11:40:24+0100
 image : "images/altitude-marketplace.png"
 # author
 author : ["raffaella"]
@@ -12,6 +12,10 @@ description: "Experiencing autonomy, mastery, and purpose as attendees"
 # save as draft
 draft: false
 ---
+Previous articles: 
+- [Intro: A few words about the event itself](https://raffaellarossini.com/blog/20221207_altitude-behind-the-scenes/)
+- [Part 1: How we worked at the organisation](https://raffaellarossini.com/blog/20221207_altitude-organisation/)
+
 # Experiencing autonomy, mastery, and purpose as attendees
 We used any possible touchpoint to make attendees aware of the purpose of the event, and remind them about it, from the invitation, to the framing of the event during the kick-off, from the badge that everybody was always carrying with them, to the dedicated website of the Camp, just to name a few.
 
@@ -74,3 +78,5 @@ So we didn’t run it by the book, but I think the pros introduced by the CFP ar
 
 Enabling attendees to leave their fingerprints on the Camp in several different ways, from the self-organised time to the Open Space, from the involvement in the organisation to other smaller initiatives, such as building a shared playlist on Spotify, or a shared timeline with pictures on Padlet, placed them **'at the centre'** of the experience, and contibuted to **foster active participation** and **shared ownership of the event**.
 
+## Read next:
+- [Part 3: A look at some of the tools that contributed the most to engagement](https://raffaellarossini.com/blog/20221207_altitude-tools/)

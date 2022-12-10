@@ -50,6 +50,6 @@ In a nutshell, and unsurprisingly for some of you:
 
 Let’s unpack!
 
-- Part 1: How we worked at the organisation
-- Part 2: Experiencing autonomy, mastery, and purpose as attendees
-- Part 3: A look at some of the tools that contributed the most to engagement
+- [Part 1: How we worked at the organisation](https://raffaellarossini.com/blog/20221207_altitude-organisation/)
+- [Part 2: Experiencing autonomy, mastery, and purpose as attendees](https://raffaellarossini.com/blog/20221207_altitude-attendees/)
+- [Part 3: A look at some of the tools that contributed the most to engagement](https://raffaellarossini.com/blog/20221207_altitude-tools/)

@@ -1,6 +1,6 @@
 ---
 title: "Behind the scenes of a successful company event - Part 1"
-date: 2022-12-07T10:40:24+0100
+date: 2022-12-08T10:40:24+0100
 image : "images/altitude-high-level-agenda.jpg"
 # author
 author : ["raffaella"]
@@ -12,6 +12,9 @@ description: "How we worked at the organisation of Altitude23"
 # save as draft
 draft: false
 ---
+Previous article: 
+- [Intro: A few words about the event itself](https://raffaellarossini.com/blog/20221207_altitude-behind-the-scenes/)
+
 # How we worked at the organisation
 
 The organisation of the event started with **why we were feeling the need to organise it**, and **what we wanted to achieve through it** - everything followed: list of attendees and guests, high level design of the schedule, length, location, choice of venue, tools, tone, name and visual identity, values of the event, and way of working at the organisation.
@@ -60,3 +63,8 @@ One of them at the end told me *“I'm happy I could be there and contribute 0.0
 
 ## Professionals achieving a shared goal
 What I love the most about this group of people who worked at different levels at the organisation is that there were **no hierarchic lines** tying us together or governing our work. It was a group of **professionals** with **different backgrounds**, coming from different parts of the Company, each one with **their own specific skill set**, who **rallied around a shared goal** and a shared purpose, **decided how to organise** their work, and **co-created** something amazing.
+
+## Read next:
+
+- [Part 2: Experiencing autonomy, mastery, and purpose as attendees](https://raffaellarossini.com/blog/20221207_altitude-attendees/)
+- [Part 3: A look at some of the tools that contributed the most to engagement](https://raffaellarossini.com/blog/20221207_altitude-tools/)

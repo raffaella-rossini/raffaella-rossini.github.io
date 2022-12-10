@@ -1,6 +1,6 @@
 ---
 title: "Behind the scenes of a successful company event - Part 3"
-date: 2022-12-07T11:55:24+0100
+date: 2022-12-10T11:55:24+0100
 image : "images/altitude-badge.jpg"
 # author
 author : ["raffaella"]
@@ -12,6 +12,11 @@ description: "A look at some of the tools that contributed the most to engagemen
 # save as draft
 draft: false
 ---
+Previous articles: 
+- [Intro: A few words about the event itself](https://raffaellarossini.com/blog/20221207_altitude-behind-the-scenes/)
+- [Part 1: How we worked at the organisation](https://raffaellarossini.com/blog/20221207_altitude-organisation/)
+- [Part 2: Experiencing autonomy, mastery, and purpose as attendees](https://raffaellarossini.com/blog/20221207_altitude-attendees/)
+
 # A look at some of the tools that contributed the most to engagement
 So far I talked about how putting people at the centre has been the key to the success of this event. 
 I want to close by spending a few words also about the tools (digital and analog) that contributed more than others to provide a good experience for the attendees.
