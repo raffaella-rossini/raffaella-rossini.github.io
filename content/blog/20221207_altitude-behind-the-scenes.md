@@ -1,17 +1,19 @@
 ---
 title: "Behind the scenes of a successful company event - Intro"
-date: 2022-12-07T09:40:24+06:00
+date: 2022-12-07T09:40:24+0100
 image : "images/altitude-cover.jpg"
 # author
 author : ["raffaella"]
 # categories
-categories: ["Engagement"]
+categories: ["Engagement", "Events"]
 tags: ["learning", "Agile"]
 # meta description
 description: "A few words about the event itself"
 # save as draft
 draft: false
 ---
+# A few words about the event itself 
+
 A couple of weeks ago I was in Barcelona together with around 400 colleagues for [Altitude23](https://www.linkedin.com/posts/lastminute%2Ecom_pinkspirit-altitude23-traveltech-activity-7003031642206310400-lJL-), our first **Product and Tech Camp**, that I helped organise together with a handful of colleagues, and that went on for four days. 
 
 ## Goals

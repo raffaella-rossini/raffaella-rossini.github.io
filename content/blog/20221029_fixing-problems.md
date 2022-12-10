@@ -1,6 +1,6 @@
 ---
 title: "Fixing problems"
-date: 2022-10-29T15:40:24+06:00
+date: 2022-10-29T15:40:24+0100
 image : "images/orchid.jpg"
 # author
 author : ["raffaella"]

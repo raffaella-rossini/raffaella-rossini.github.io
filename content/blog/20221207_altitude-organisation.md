@@ -1,17 +1,19 @@
 ---
 title: "Behind the scenes of a successful company event - Part 1"
-date: 2022-12-07T10:40:24+06:00
-image : "images/altitude-cover.jpg"
+date: 2022-12-07T10:40:24+0100
+image : "images/altitude-high-level-agenda.jpg"
 # author
 author : ["raffaella"]
 # categories
-categories: ["Engagement"]
+categories: ["Engagement", "Events"]
 tags: ["learning", "Agile"]
 # meta description
 description: "How we worked at the organisation of Altitude23"
 # save as draft
 draft: false
 ---
+# How we worked at the organisation
+
 The organisation of the event started with **why we were feeling the need to organise it**, and **what we wanted to achieve through it** - everything followed: list of attendees and guests, high level design of the schedule, length, location, choice of venue, tools, tone, name and visual identity, values of the event, and way of working at the organisation.
 
 Once the high level goals and budget were defined by the executives sponsoring the initiative we (more about “we” in a moment) **enjoyed great autonomy in designing the event**, and we intentionally created room for autonomy also for the attendees. [What a feeling](https://www.youtube.com/watch?v=ILWSp0m9G2U)!
@@ -49,7 +51,7 @@ When deciding which ten respondents were to be confirmed as ambassadors, the end
 The criterion followed to assign them to the streams of work was…none: **everybody decided how and where to contribute**, based on their skills, interests, and capacity. As a result, their commitment was rock solid. 
 
 I think the vast majority of the people in the Committee was doubtful about sharing the organisation with the Ambassadors (too complex, too slow, too democratic). 
-But on one side I wanted people from the intended audience to **bring their perspective in** the organisation (nobody in the Committee was from Product nor Technology), and on the other side I wanted people to **own the event**, and **allowing people ‘from the trenches’ get their fingerprints on it** was for me the way to go (see [this article](https://www.estherderby.com/the-fingerprint-principle) by Esther Derby, one of my favourite thought leaders on change management).
+But on one side I wanted people from the intended audience to **bring their perspective in** the organisation (nobody in the Committee was from Product or Technology), and on the other side I wanted people to **own the event**, and **allowing people ‘from the trenches’ get their fingerprints on it** was for me the way to go (see [this article](https://www.estherderby.com/the-fingerprint-principle) by Esther Derby, one of my favourite thought leaders on change management).
 
 We went even further and asked if there was anyone open to volunteer during the event. Also in this case the response was overwhelming, as forty people replied *“Count on me!”*.
 One of them at the end told me *“I'm happy I could be there and contribute 0.01% to this success :hugging_face:”*
