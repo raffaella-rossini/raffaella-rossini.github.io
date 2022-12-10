@@ -36,10 +36,13 @@ During the plenary on Wednesday we stayed all together, while for the 'Team Time
 
 We planned on purpose the departure day on a Friday, when we usually only work half a day. The vast majority of people took their flight back in the morning, after having enjoyed the last dinner all together with no hurry, while some teams decided to extend their stay (covering for the cost out of their pockets) to spend more time together outside work.
 
-# Open Space
+## Open Space
 The theme we defined for the Open Space was 'Sustainable Growth', and it was wide enough to welcome contributions from everyone. People could present about something, or have a conversation around a problem or an idea, or do something hands-on. 
-We ended up with **50 breakout sessions** happening in the six meeting rooms that we had booked (but we also used other public spaces at the venue), covering product and tech topics, but also cultural ones. 
-Everyone of us was **free to join the sessions that we deemed more relevant**, and also to **leave** and switch session in case we felt we were neither contributing nor learning.
+We ended up with **50 breakout sessions** happening throughout the day in the six meeting rooms that we had booked (but we also used other public spaces at the venue), covering product and tech topics, but also cultural ones. 
+Everyone of us was **free to join the sessions that we deemed more relevant**, and also to **leave** and switch session in case we felt we were neither contributing nor learning. 
+
+In between two breakout sessions a manager who was a bit sceptical about 400 people doing *“this Open Space thing”* commented: *“It’s amazing to see everybody doing their own thing! Who thought they could behave like adults?!”* 
+He was really happy, and the second part of the sentence was genuinely sarcastic…but, but…it is true that sometimes in our 'corporate lives' managers seem to forget that they hired fully formed adults, who are intrinsically motivated and care about doing a good job (well, this is how I see it), and they feel better when they feel 100% in control, which is something that cannot happen in the Open Space. 
 
 For the vast majority of the attendees this was their first Open Space, and when during the wrap up of the Camp we asked through Sli.do (more on this in a moment) for their *Tips, Tops, and Thanks*, the biggest ‘Top’ on the word cloud was undoubtedly ‘Open Space’.
 Why? Well, the way I see it, because it’s a format that:
@@ -49,13 +52,7 @@ Why? Well, the way I see it, because it’s a format that:
 - encourages people to **take ownership of their time** and invest it where there is something that matters to them 
 - in a company context, makes you realise **how brilliant and knowledgeable your colleagues are**, and fosters peer-to-peer learning
 
-# The fingerprint principle
-It is all about putting people at the centre of the experience, and about ‘autonomy and mastery’ at its peak.
-----> and **allowing people ‘from the trenches’ get their fingerprints on it** was for me the way to go (see [this article](https://www.estherderby.com/the-fingerprint-principle) by Esther Derby, one of my favourite thought leaders on change management).
-
-In between two breakout sessions a manager who was a bit sceptical about 400 people doing *“this Open Space thing”* commented: *“It’s amazing to see everybody doing their own thing! Who thought they could behave like adults?!”* 
-He was really happy, and the second part of the sentence was genuinely sarcastic…but, but…it is true that sometimes in our 'corporate lives' managers seem to forget that they hired fully formed adults, who are intrinsically motivated and care about doing a good job (well, this is how I see it), and they feel better when they feel 100% in control, which is something that cannot happen in the Open Space. 
-
+### We didn't run it by the book
 I want to underline that we built the agenda differently than how you would do it in a standard Open Space:
 
 - During the three weeks leading to the event we ran a **Call For Papers**, where whoever wanted to host a breakout session in the Open Space shared the main information (title, abstract, hosts) about it. Through the CFP we collected the vast majority of the sessions, and during the entire process anybody in the Product and Tech teams could see what sessions were being proposed by whom. 
@@ -69,3 +66,11 @@ So we didn’t run it by the book, but I think the pros introduced by the CFP ar
 - people were able to **form an interest** in the sessions before the event
 - we **avoided duplicated topics**, and we also had people who wanted to cover similar topics who **joined forces** to prepare a session together
 - the **quality** of the contents was far higher than the first time we ran an Open Space and we built the agenda on the fly during the kick off.
+
+# The fingerprint principle
+
+> When people play a part in defining and designing or refining something, they are much more likely to feel ownership of it… And they’re much more invested in helping whatever it is to succeed.
+> *Esther Derby, [The Fingerprint Principle](https://www.estherderby.com/the-fingerprint-principle)*
+
+Enabling attendees to leave their fingerprints on the Camp in several different ways, from the self-organised time to the Open Space, from the involvement in the organisation to other smaller initiatives, such as building a shared playlist on Spotify, or a shared timeline with pictures on Padlet, placed them **'at the centre'** of the experience, and contibuted to **foster active participation** and **shared ownership of the event**.
+
