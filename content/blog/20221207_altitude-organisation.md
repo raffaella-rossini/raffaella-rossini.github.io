@@ -8,7 +8,7 @@ author : ["raffaella"]
 categories: ["Engagement", "Event Management"]
 tags: ["learning", "Agile"]
 # meta description
-description: "How we worked at the organisation of the event"
+description: "Behind the scenes of a successful company event: how we worked at the organisation of the event"
 summary: "How we worked at the organisation of the event"
 # save as draft
 draft: false
