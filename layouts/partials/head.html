@@ -47,6 +47,6 @@
 
         {{ $isso := resources.Get "css/isso.css" | minify }}
         <link rel="stylesheet" href="{{ $isso.Permalink }}" media="screen">
-
+    {{ template "_internal/opengraph.html" . }}
   </head>
   

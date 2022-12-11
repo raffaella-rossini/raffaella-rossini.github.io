@@ -8,7 +8,7 @@ author : ["raffaella"]
 categories: ["Engagement", "Event Management"]
 tags: ["learning", "Agile"]
 # meta description
-description: "A look at some of the tools that contributed the most to engagement"
+description: "Behind the scenes of a successful company event: a look at some of the tools that contributed the most to engagement"
 summary: "A look at some of the tools that contributed the most to engagement"
 # save as draft
 draft: false
@@ -31,7 +31,7 @@ It was fun, incredibly easy to use, and enabled us to **embed in the event any i
 
 The best feedback I received was from a remote attendee, who told me *“Thank you for Sli.do, I am feeling as part of the action as if I was there with you”*.
 
-## Workplace and Website
+## Workplace + Website
 [Workplace by Meta](https://work.workplace.com/) is the tool we use for internal communications in the Company. We created a dedicated group for the Camp, having only the attendees as members, and we used it to live-stream the plenary meetings (kickoff, session on strategy and vision, wrap-up), as well as for any announcement.
 I also created an 'event' in the group for every breakout sessions of the Open Space. People automatically received a calendar invitation for every session in which they expressed interest or intention to participate, and in this way they created a **personalised version of the agenda** for the Thursday in their own calendar.
 

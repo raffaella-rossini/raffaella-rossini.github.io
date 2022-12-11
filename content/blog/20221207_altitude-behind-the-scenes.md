@@ -8,7 +8,8 @@ author : ["raffaella"]
 categories: ["Engagement", "Event Management"]
 tags: ["learning", "Agile"]
 # meta description
-description: "A few words about the event itself"
+description: "Behind the scenes of a successful company event"
+images: ["images/altitude-cover.jpg"]
 summary: "A few words about the event itself"
 # save as draft
 draft: false
