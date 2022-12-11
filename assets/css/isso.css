@@ -1,17 +1,17 @@
 .isso-form-wrapper {
-    display: flex;
+    display: flex !important;
     flex-direction: column;
 }
 
 .isso-auth-section {
-    display: grid;
+    display: grid !important;
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
     grid-auto-rows: minmax(100px, auto);
 }
 
 p.isso-input-wrapper {
-    max-width: 90%;
+    max-width: 90% !important;
 }
 
 p.isso-post-action {
@@ -20,11 +20,11 @@ p.isso-post-action {
 }
 
 p.isso-post-action > input {
-    background-color: #cd2653;
-    color: white;
-    padding: 10px;
-    display: flex;
-    align-self: center;
+    background-color: #cd2653 !important;
+    color: white !important;
+    padding: 10px !important;
+    display: flex !important;
+    align-self: center !important;
 }
 
 p.isso-post-action:nth-of-type(4) {
