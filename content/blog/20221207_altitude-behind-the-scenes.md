@@ -9,6 +9,7 @@ categories: ["Engagement", "Event Management"]
 tags: ["learning", "Agile"]
 # meta description
 description: "A few words about the event itself"
+summary: "A few words about the event itself"
 # save as draft
 draft: false
 ---

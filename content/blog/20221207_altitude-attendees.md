@@ -9,6 +9,7 @@ categories: ["Engagement", "Event Management"]
 tags: ["learning", "Agile"]
 # meta description
 description: "Experiencing autonomy, mastery, and purpose as attendees"
+summary: "Experiencing autonomy, mastery, and purpose as attendees"
 # save as draft
 draft: false
 ---

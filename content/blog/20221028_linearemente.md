@@ -9,6 +9,7 @@ categories: ["Private"]
 tags: ["learning"]
 # meta description
 description: "Once upon a time, I had a blog named linearemente.it"
+summary: "Once upon a time, I had a blog named linearemente.it"
 # save as draft
 draft: false
 ---

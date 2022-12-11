@@ -9,6 +9,7 @@ categories: ["Change Management"]
 tags: ["AHA!", "Agile"]
 # meta description
 description: "What gardening taught me about change management"
+summary: "What gardening taught me about change management"
 # save as draft
 draft: false
 ---

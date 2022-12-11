@@ -9,6 +9,7 @@ categories: ["Engagement", "Event Management"]
 tags: ["learning", "Agile"]
 # meta description
 description: "A look at some of the tools that contributed the most to engagement"
+summary: "A look at some of the tools that contributed the most to engagement"
 # save as draft
 draft: false
 ---
