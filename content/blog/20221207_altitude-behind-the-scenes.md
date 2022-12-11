@@ -26,13 +26,15 @@ There are a **lot of new people** in the Product and Technology functions at my 
 - **share knowledge**
 - **align** around the vision and strategy for next year
 
-to reinforce the foundations on which to build better collaboration in the day by day.
+to reinforce the foundations on which to build **better collaboration** in the day by day.
 
 ## In-person set-up
-We decided for an **in-person event** because in-person interactions can achieve the vast majority of those goals at a **deeper level and faster** than virtual ones, and we **live streamed** the parts of the event that made sense to stream, so as to make contents accessible also to the colleagues who could not join us in person.  
+We decided for an **in-person event** because in-person interactions can achieve the vast majority of those goals at a **deeper level and faster** than virtual ones.<br>
+Additionally, we **live streamed** the parts of the event that made sense to stream, so as to make contents accessible also to the colleagues who could not join us in person.  
 
 ## High level agenda
 The high level agenda we designed to meet our goals for the event was:
+
 ![High level agenda of Altitude23](/images/altitude-high-level-agenda.jpg)
 
 - Our leaders in Product and Technology delivered the first plenary session about vision and strategy.
@@ -40,9 +42,11 @@ The high level agenda we designed to meet our goals for the event was:
 - The breakout sessions in the Open Space were delivered by the attendees themselves. [Here](https://openspaceworld.org/wp2/hho/papers/brief-users-guide-open-space-technology/) is an introduction about the Open Space technology, for those who have never heard about it.
 
 ## It was a success in terms of active participation and engagement! What are the reasons? 
-A lot of **work and love** went into preparing the Camp, and it showed: the **attendees provided great feedback** (*"I am enjoying every minute”* is one that I’ll never forget), and the **execs** who thought that the time was right to run such an event for that audience were **happy**. It was an **enriching and rewarding experience** also for me personally.
+A lot of **work and love** went into preparing the Camp, and it showed: the **attendees provided great feedback** (*"I am enjoying every minute”* is one that I’ll never forget), and the **execs** who thought that the time was right to run such an event for that audience were **happy**. <br>
+It was an **enriching and rewarding experience** also for me personally.
 
-Now that emotions have (more or less :sweat_smile:) subsided, I want to reflect on what I think the ingredients for such a positive experience have been - there is for sure room for improvement, but here I want to focus on why it was a **success in terms of active participation and engagement**. 
+Now that emotions have (more or less :sweat_smile:) subsided, I want to reflect on what I think the ingredients for such a positive experience have been. There is for sure room for improvement, but here I want to focus on why it was a **success in terms of active participation and engagement**.
+
 In a nutshell, and unsurprisingly for some of you: 
 
 - **autonomy, mastery, purpose**

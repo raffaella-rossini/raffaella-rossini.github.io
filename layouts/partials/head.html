@@ -45,5 +45,8 @@
         data-isso-reply-notifications-default-enabled="false"
         src="https://comments.raffaellarossini.com/js/embed.min.js"></script>
 
+        {{ $isso := resources.Get "css/isso.css" | minify }}
+        <link rel="stylesheet" href="{{ $isso.Permalink }}" media="screen">
+
   </head>
   
