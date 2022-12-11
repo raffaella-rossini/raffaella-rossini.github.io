@@ -2,6 +2,7 @@
 title: "Behind the scenes of a successful company event - Part 1"
 date: 2022-12-08T10:40:24+0100
 image : "images/altitude-high-level-agenda.jpg"
+images: ["images/altitude-high-level-agenda.jpg"]
 # author
 author : ["raffaella"]
 # categories

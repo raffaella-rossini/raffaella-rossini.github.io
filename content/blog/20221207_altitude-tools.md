@@ -2,6 +2,7 @@
 title: "Behind the scenes of a successful company event - Part 3"
 date: 2022-12-10T11:55:24+0100
 image : "images/altitude-badge.jpg"
+images: ["images/altitude-badge.jpg"]
 # author
 author : ["raffaella"]
 # categories

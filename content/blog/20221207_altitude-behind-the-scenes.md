@@ -2,6 +2,7 @@
 title: "Behind the scenes of a successful company event - Intro"
 date: 2022-12-07T09:40:24+0100
 image : "images/altitude-cover.jpg"
+images: ["images/altitude-cover.jpg"]
 # author
 author : ["raffaella"]
 # categories
@@ -9,7 +10,6 @@ categories: ["Engagement", "Event Management"]
 tags: ["learning", "Agile"]
 # meta description
 description: "Behind the scenes of a successful company event"
-# images: ["images/altitude-cover.jpg"]
 summary: "A few words about the event itself"
 # save as draft
 draft: false
