@@ -59,7 +59,7 @@ During that first meeting people also had the opportunity to bail out, in case t
 I think the vast majority of the people in the Committee was doubtful about sharing the organisation with the Ambassadors (too complex, too slow, too democratic), but on one side I wanted people from the intended audience to **bring their perspective in** the organisation (nobody in the Committee was from Product or Technology), and on the other side I wanted people to **own the event**, and **allowing people ‘from the trenches’ get their fingerprints on it** was for me the way to go.
 
 We went even further and asked if there was anyone open to volunteer during the event. Also in this case the response was overwhelming, as forty people replied *“Count on me!”*.
-One of them at the end told me *“I'm happy I could be there and contribute 0.01% to this success :hugging_face:”*
+One of them at the end told me *“I'm happy I could be there and contribute 0.01% to this success* :hugging_face:*”*
 
 ## Professionals achieving a shared goal
 What I love the most about this group of people who worked at different levels at the organisation is that there were **no hierarchic lines** tying us together or governing our work. It was a group of **professionals** with **different backgrounds**, coming from different parts of the Company, each one with **their own specific skill set**, who **rallied around a shared goal** and a shared purpose, **decided how to organise** their work, and **co-created** something amazing.
