@@ -15,7 +15,6 @@ p.isso-input-wrapper {
 }
 
 p.isso-post-action {
-    display: grid !important;
     width: 100%;
 }
 
@@ -23,7 +22,6 @@ p.isso-post-action > input {
     background-color: #cd2653 !important;
     color: white !important;
     padding: 10px !important;
-    display: flex !important;
     align-self: center !important;
 }
 
