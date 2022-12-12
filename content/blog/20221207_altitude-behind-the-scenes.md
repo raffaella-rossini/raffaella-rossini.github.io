@@ -7,7 +7,7 @@ images: ["images/altitude-cover.jpg"]
 author : ["raffaella"]
 # categories
 categories: ["Engagement", "Event Management"]
-tags: ["learning", "Agile"]
+tags: ["in-person"]
 # meta description
 description: "Behind the scenes of a successful company event"
 summary: "A few words about the event itself"
