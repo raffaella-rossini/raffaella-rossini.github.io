@@ -56,15 +56,14 @@ During our first meeting I kicked off by **clarifying the purpose** of the Ambas
 - increase awareness of the event in the teams, and bring back to the committee their questions, doubts, and feedback that weren’t reaching us directly
 - lead or contribute to some streams of work.  
 
-During that first meeting people also had the opportunity to bail out, in case the tasks at hand weren't something they could/would want to contribute to, and the criterion followed to assign them to the streams of work was…none: **everybody decided how and where to contribute**, based on their skills, interests, and capacity. As a result, their commitment was rock solid.
+Who applied to be Ambassador also had the opportunity to bail out, in case the tasks at hand weren't something they could/would want to contribute to, and the criterion followed to assign them to the streams of work was…none: **everybody decided how and where to contribute**, based on their skills, interests, and capacity. As a result, their commitment was rock solid.
 
-I think the vast majority of the people in the Committee was doubtful about sharing the organisation with the Ambassadors (too complex, too slow, too democratic), but on one side I wanted people from the intended audience to **bring their perspective in** the organisation (nobody in the Committee was from Product or Technology), and on the other side I wanted people to **own the event**, and **allowing people ‘from the trenches’ get their fingerprints on it** was for me the way to go.
-
+Managing the organisation among a larger group of people could have made it more complex and slower than necessary. At the same time, however, I was very keen to have people from the intended audience **bringing their own perspective** (nobody in the Committee was from Product or Technology). Also, I really wanted people to own the event, and allowing them to **get their fingerprints on it** was for me the way to go.
 We went even further and asked if there was anyone open to volunteer during the event. Also in this case the response was overwhelming, as forty people replied *“Count on me!”*.
 One of them at the end told me *“I'm happy I could be there and contribute 0.01% to this success* :hugging_face:*”*
 
 ## Professionals achieving a shared goal
-What I love the most about this group of people who worked at different levels at the organisation is that there were **no hierarchic lines** tying us together or governing our work. It was a group of **professionals** with **different backgrounds**, coming from different parts of the Company, each one with **their own specific skill set**, who **rallied around a shared goal** and a shared purpose, **decided how to organise** their work, and **co-created** something amazing.
+What I love the most about this group of people who worked at different levels at the organisation is that there were **no hierarchic lines determining the flow of our work**. It was a group of **professionals** with **different backgrounds**, coming from different parts of the Company, each one with **their own specific skill set**, who **rallied around a shared goal** and a shared purpose, **decided how to organise** their work, and **co-created** something amazing.
 
 ## Read next:
 
