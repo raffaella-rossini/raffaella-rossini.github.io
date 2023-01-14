@@ -6,7 +6,7 @@ image : "images/orchid.jpg"
 author : ["raffaella"]
 # categories
 categories: ["Change Management"]
-tags: ["AHA!", "Agile"]
+tags: ["AHA!", "agile"]
 # meta description
 description: "What gardening taught me about change management"
 summary: "What gardening taught me about change management"
