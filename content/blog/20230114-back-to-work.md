@@ -28,7 +28,7 @@ I don't know what has your experience of work outside the office been so far, I 
 When it comes to me, **it's surprising how little I can get done from the office compared to working from home**.<br>
 I think it's because at home:
 
-* the **working hours are entirely allocated to work**. 
+* the **working hours are entirely allocated to work**.<br>
 On one side there is no time spent in moving around: no commute, no moving from a meeting room to the other (all my videocalls always start right on time, even ahead of time, when all attendees join remotely), no walking to get coffee or lunch.<br>
 On the other side there is also less chitchatting (which has its downsides).
 * it's **easier to focus**: there is no noise, no distractions, less interruptions.
