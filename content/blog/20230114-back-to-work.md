@@ -22,7 +22,7 @@ Words matter, and what do those words imply *(to me, at least: I don't know if i
 
 # "Back to work"
 
-To me "Back to work" implies that when you are not at the office you are actually **enjoying your free time**, or that you are **faffing around**. 
+To me "Back to work" implies that when you are not working at the office you are actually **enjoying your free time** instead, or that you are **faffing around**. 
 
 I don't know what has your experience of work outside the office been so far, I am aware every situation is different.<br>
 When it comes to me, **it's surprising how little I can get done from the office compared to working from home**.<br>
