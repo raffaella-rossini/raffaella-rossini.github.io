@@ -9,8 +9,8 @@ author : ["raffaella"]
 categories: ["Time Management"]
 tags: ["bookmarks", "retrospective"]
 # meta description
-description: "xxx"
-summary: "xxx"
+description: "How well I am spending my weeks?"
+summary: "How well I am spending my weeks?"
 # save as draft
 draft: false
 ---
@@ -21,7 +21,7 @@ It must be that I am not that young anymore... :see_no_evil:
 
 # 1. Make a list of things that make you happy
 
-The first one is the hero image of this post:
+The first one is the hero image of this post, that I found on the Twitter account of [Action for happiness](https://actionforhappiness.org/):
 > Make a list of things that make you happy<br>
 > Make a list of things you do every day<br>
 > Compare the list<br>
@@ -50,6 +50,3 @@ So this is what I started doing at the beginning of 2023:
 I hope this will help me **pinpoint more clearly what drains my energies and what makes me happy**, understand **how much of each there is** in my days, and **adjust accordingly**, before it's too late: the expiry date is right there at the end of the spreadsheet, so it is very difficult to look the other way!
 
 _How we spend our days is, of course, how we spend our lives (Anne Dillard)_
-
----
-Photo by [Action for happiness](https://actionforhappiness.org/)
