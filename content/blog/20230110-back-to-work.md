@@ -41,7 +41,7 @@ The last three years forced us to work in a different way than before, and to me
 We can extract a lot of learning from it, why should we go "back" instead of leveraging on this experience to evolve and **propel us forward to new ways of doing things**?
 
 I now look at the **office as a tool**: it provides a default space for in person meetings, it is a release valve for the ones who have a noisy or difficult situation at home, it comes equipped with services like reliable internet access and printers, it is a place where you can socialise.<br>
-As such, I wish people were allowed to **use it when it's best**, given the type of work at hand and their personal situation.
+As such, I wish people were allowed to **use it when it's best**, given the type of work at hand and their personal situation (and provided that the local regulatory framework allows for such flexibility).
 
 ---
 Photo credits: Paramount
