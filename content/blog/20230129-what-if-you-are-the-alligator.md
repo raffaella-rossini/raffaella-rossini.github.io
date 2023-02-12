@@ -9,8 +9,8 @@ author : ["raffaella"]
 categories: ["Psychological Safety", "DEIB"]
 tags: ["cartoons", "retrospective"]
 # meta description
-description: "How safe really is your work environment?"
-summary: "How safe really is your work environment?"
+description: "How psychologically safe you feel may not be a reflection of how psicologically safe really is your work environment."
+summary: "How psychologically safe you feel may not be a reflection of how psicologically safe really is your work environment."
 # save as draft
 draft: false
 ---

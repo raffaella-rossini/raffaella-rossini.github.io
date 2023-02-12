@@ -69,7 +69,7 @@ weight = 5
 #################### default parameters ################################
 [params]
 # Meta data
-description = "raffaella rossini's blog about Company Culture, Employee Experience, Digital HR"
+description = "raffaella rossini's blog about Digital HR, People & Culture, Employee Experience"
 author = "raffaella rossini"
 
 # cookies
@@ -84,7 +84,7 @@ expire_days = 2
 
 # blog
 [params.blog]
-heading = "This is where I put in order my thoughts about Company Culture, Employee Experience, Digital HR<br>_(and about myself too)_"
+heading = "This is where I put in order my thoughts about Digital HR, People & Culture, Employee Experience<br>_(and about myself too)_"
 
 # call to action
 [params.call_to_action]

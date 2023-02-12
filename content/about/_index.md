@@ -6,7 +6,7 @@ description: "A few words about this website and its owner"
 draft: false
 ---
 ## ...this website
-This is the place where I **put in order my thoughts** about **Company Culture, Employee Experience, Digital HR** (and about myself too).
+This is the place where I **put in order my thoughts** about **Digital HR, People & Culture, Employee Experience** (and about myself too).
 
 You'll see here contents in both **Italian and English**: 
 - Italian is my native language, and I'll use it whenever I'll feel the need to stick to it.
