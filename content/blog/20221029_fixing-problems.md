@@ -35,6 +35,8 @@ It may also be that there is indeed a problem…which the people suffering from 
 _[Simplicity--the art of maximizing the amount of work not done--is essential.](https://agilemanifesto.org/principles.html)_
 
 ---
-Update 12 Feb 2023 - Today I received the 'Brain Food' newsletter from Farnam Street, where the first link was to [a blog post about iatrogenics](https://fs.blog/iatrogenics/): there is some sound philosophy I wasn't aware of behind the realisation I described above, and the authors pulled together a very insightful read about it!  
+Update 12 Feb 2023<br>
+Today I received the 'Brain Food' newsletter from Farnam Street, where the first link was to [a blog post about iatrogenics](https://fs.blog/iatrogenics/): there is some sound philosophy I wasn't aware of behind the realisation I described above, and the authors pulled together a very insightful read about it!  
+
 ---
 Photo by [John Wiesenfeld](https://unsplash.com/@fotofloridian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/orchids?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
