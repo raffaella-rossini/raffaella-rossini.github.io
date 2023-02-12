@@ -9,8 +9,8 @@ author : ["raffaella"]
 categories: ["Time Management"]
 tags: ["bookmarks", "retrospective"]
 # meta description
-description: "How well I am spending my weeks?"
-summary: "How well I am spending my weeks?"
+description: "How we spend our days is of course how we spend our lives (Annie Dillard)"
+summary: "How we spend our days is of course how we spend our lives (Annie Dillard)"
 # save as draft
 draft: false
 ---
