@@ -6,7 +6,7 @@ images: ["images/happy.jpeg"]
 # author
 author : ["raffaella"]
 # categories
-categories: ["Time Management"]
+categories: ["Time Management", "Personal Productivity"]
 tags: ["bookmarks", "retrospective"]
 # meta description
 description: "How we spend our days is of course how we spend our lives (Annie Dillard)"

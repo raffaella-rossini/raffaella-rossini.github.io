@@ -6,7 +6,7 @@ images: ["images/facepalm.png"]
 # author
 author : ["raffaella"]
 # categories
-categories: ["Future of work"]
+categories: ["Future of work", "Personal Productivity"]
 tags: ["remote-work","office-work"]
 # meta description
 description: "Can we please stop referring to resume work from the office as 'Back to work'?"
