@@ -19,24 +19,24 @@ draft: false
 
 When it comes to knowledge workers' **productivity**, **motivation** is an important lever.
 
-Out of the ingredients that are required to **sustaining engagement and motivation**, 'Remove the demotivators' is the one that often does not come to mind: we tend to **try to 'actively' motivate** employee by **providing 'something'**.
+Out of the ingredients that are required to **sustain engagement and motivation**, 'Remove the demotivators' is the one that often does not come to mind: we usually **try to 'actively' motivate** employee by **providing 'something'**.
 
 Some may still think that this 'something' consists in dangling the carrot (rewards, perks, benefits) in front of employees, and that the carrot is what will keep them going, but if you **strive for consistent valuable work**... it is a little more subtle than that.
 
-And even when you get it, and start investing in intrinsic motivators such as purposeful work, challenging work, personal growth, autonomy, recognition, your strategy **won’t pay dividends in the long run if you don’t also remove the demotivators**.
+And even when you get it, and start investing in intrinsic motivators such as purposeful work, challenging work, personal growth, autonomy, recognition, your strategy **won’t pay dividends in the long run if you don't also remove the demotivators**.
 
 *'Demotivators' such as?*<br>
 If I had to answer by looking at what kills my motivation, this would be my personal list:
 
-* Bureaucracy
-* Faffing around (especially when it comes to making decisions)
-* Incongruence between words and actions 
-* Being requested to do something without being provided with the why behind it (or being provided with a why that does not make sense)
-* Lack of transparency 
-* Lack of commitment, and avoidance of accountability
-* Not being allowed to speak up and voice contrary opinions
-* Conflicts not managed
-* Bad office politics
+* **Bureaucracy**
+* **Faffing around** (especially when it comes to making decisions)
+* **Incongruence** between words and actions 
+* Being requested to do something **without** being provided with **the why** behind it (or being provided with a why that does not make sense)
+* **Lack of transparency**
+* **Lack of commitment**, and **avoidance of accountability**
+* **Not being allowed to speak up** and voice contrary opinions
+* **Conflicts** not managed
+* Bad **office politics**
 
 # Disincentives
 
@@ -46,10 +46,10 @@ If I had to answer by looking at what kills my motivation, this would be my pers
 > Now make a list of the disincentives that are getting in their way.
  
 *You want people to collaborate across Departments*.<br>
-How are goals set? How work flows to people? If the answer is 'by Department' or 'by reporting line' you are actively stifling cross-functional collaboration, instead of making it easy.
+How are goals set? How work flows to people? If the answer is 'by Department' or 'by reporting line' you are actively stifling cross-functional collaboration, instead of nurturing it.
 
 *You want employees to be lifelong learners, because you acknowledge that it's a competitive advantage for your company*.<br>
-How many manager are there that believe that time spent learning is not profitable and actually just a cost? How much budget is allocated to training? How easy is it for people to tap into it?
+How many manager are there who believe that time spent learning is time stolen to making profits? How much budget is allocated to training? How easy is it for people to tap into it?
 
 *You want your employees to be productive*.<br>
 **How many demotivators are you neglecting to remove**? **How many demotivators are you actually actively introducing in your work environment**?
