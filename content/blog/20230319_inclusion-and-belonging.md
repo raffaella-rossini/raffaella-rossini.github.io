@@ -1,6 +1,6 @@
 ---
 title: "How to sustain Inclusion and Belonging in remote and hybrid teams? - Intro"
-date: 2023-03-15T18:20:20+0100
+date: 2023-03-19T11:20:20+0100
 image : "images/you-belong.jpg"
 images: ["images/you-belong.jpg"]
 # author
