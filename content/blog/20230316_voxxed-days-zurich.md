@@ -27,3 +27,6 @@ I know the developers behind [Alf.io](https://alf.io/), the **open source event 
 Among other things, they take care of the check-in first hand, and lend a hand to the exhibitors to setup the dedicated app to collect leads, so basically during the event they are surrounded by **all their customers** (organisers, attendees, and exhibitors) **using their product**, and they have evolved it over the years to solve their customers' **pain points**, which they have been able to **observe live**... and I am in the trenches with them! How cool is that?
 
 Here's to many more successful events 🤙
+
+---
+Credits: [Dimitris Doutsiopoulos](https://ddphotography.gr/)

@@ -107,8 +107,7 @@ Nobody meant harm, of course, but **clumping** makes the ones who work from an o
 One of the places where exclusion is more likely to happen are **hybrid meetings** - which is what I'll be covering in the next blog post :v:.
 
 ## Read next:
-
-- [xxx]()
+- [How to sustain Inclusion and Belonging in remote and hybrid teams? - Hybrid meetings](https://raffaellarossini.com/blog/20230402_inclusion-and-belonging-hybrid-meetings/)
 
 ---
 Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/ZFXZ_xMYTZs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
