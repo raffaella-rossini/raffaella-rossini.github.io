@@ -60,5 +60,10 @@ I've started by asking my colleagues to share:
 
 I'll share their insights in the next post.
 
+## Read next:
+
+- [How to sustain Inclusion and Belonging in remote and hybrid teams? - Learnings from the trenches](https://raffaellarossini.com/blog/20230324_inclusion-and-belonging-learnings/)
+- [How to sustain Inclusion and Belonging in remote and hybrid teams? - Hybrid meetings](ppp)
+
 ---
 Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/ZFXZ_xMYTZs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

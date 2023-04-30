@@ -105,3 +105,10 @@ Nobody meant harm, of course, but **clumping** makes the ones who work from an o
 > Lack of appropriate tooling for video conferencing on the office side.
 
 One of the places where exclusion is more likely to happen are **hybrid meetings** - which is what I'll be covering in the next blog post :v:.
+
+## Read next:
+
+- [xxx]()
+
+---
+Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/ZFXZ_xMYTZs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
