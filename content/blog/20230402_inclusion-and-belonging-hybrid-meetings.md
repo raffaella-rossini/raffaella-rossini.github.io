@@ -9,8 +9,8 @@ author : ["raffaella"]
 categories: ["DEIB", "Future of Work"]
 tags: ["inclusion", "belonging", "team", "hybrid meetings"]
 # meta description
-description: "We've always had hybrid meetings, and they have always been crap for the remote attendees, but we couldn't see it. Now after 3 years of full remote work and good videocalls we can appreciate the difference, and we have the duty to do better!"
-summary: "We've always had hybrid meetings, and they have always been crap for the remote attendees, but we couldn't see it. Now after 3 years of full remote work and good videocalls we can appreciate the difference, and we have the duty to do better!"
+description: "We've always had hybrid meetings, and they have always been crap for the remote attendees, but we couldn't see it. Now after 3 years of full remote work and good videocalls we can appreciate the difference, and we have the duty to do better."
+summary: "We've always had hybrid meetings, and they have always been crap for the remote attendees, but we couldn't see it. Now after 3 years of full remote work and good videocalls we can appreciate the difference, and we have the duty to do better."
 # save as draft
 draft: false
 ---
