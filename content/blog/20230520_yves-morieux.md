@@ -1,8 +1,8 @@
 ---
 title: "How too many rules at work keep you from getting things done, a TED Talk by Yves Morieux"
 date: 2023-05-20T20:02:00+0100
-image : "images/morieux.png"
-images: ["images/morieux.png"]
+image : "images/morieux-cooperation.png"
+images: ["images/morieux-cooperation.png"]
 # author
 author : ["raffaella"]
 # categories
@@ -27,4 +27,7 @@ Through the example of a relay race, he shows:
 
 When you cooperate you put your energy not in your objectively measurable individual performance (your legs), but in **improving the performance of the whole group** (passing the baton), where there are people with whom you are compared: it is not easy, because it goes against self preservation!
 
-If we want to create a context beneficial for human efforts, we need to make **cooperation individually profitable for people**: we need to create organisations in which the performance management processes and the reward systems **embrace fuzziness** - were responsibilities overlap - instead of clarity, where what **gets measured is the how** instead of the what, and accountability is not a tool to be sure to know who to blame when things go wrong.
+If we want to create a context beneficial for human efforts, we need to make **cooperation individually profitable for people**: we need to create organisations in which the performance management processes and the reward systems
+* **embrace fuzziness** - were responsibilities overlap - instead of clarity
+* what **gets measured is the how** instead of the what
+* and accountability is not a tool to be sure to know who to blame when things go wrong.
